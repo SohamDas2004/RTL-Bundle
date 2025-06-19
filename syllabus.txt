@@ -1,0 +1,109 @@
+1. Digital Design Elements
+
+1.1. Principles of Combinational Logic
+        1.1.1. Definition of combinational logic
+        1.1.2. Canonical forms
+        1.1.3. Generation of switching equations from truth tables
+        1.1.4. Karnaugh maps-up to 4 variables,
+        1.1.5. Quine-McCluskey Minimization Technique.
+
+1.2. Logic Design with MSI Components and Programmable Logic Devices
+        1.2.1. Binary Adders
+        1.2.2. Subtractors,
+        1.2.3. Comparators,
+        1.2.4. Decoders,
+        1.2.5. Encoders,
+        1.2.6. Multiplexers,
+
+1.3. Flip-Flops and its Applications:
+        1.3.1. The Master-Slave Flip-flops (Pulse-Triggered flip-flops):
+        1.3.2. SR flipflops,
+        1.3.3. JK flip flops,
+        1.3.4. Characteristic equations,
+        1.3.5. Registers,
+        1.3.6. Binary Ripple Counters,
+        1.3.7. Synchronous Binary Counters,
+        1.3.8. Counters based on Shift Registers,
+        1.3.9. Design of Synchronous mod-n Counter using clocked T, J K, D and SR flip-flops.
+
+
+##########################################################################################
+
+2. Verilog
+
+2.1. Introduction to Verilog:
+        2.1.1. Structure of Verilog module,
+        2.1.2. Operators, Data Types,
+
+2.2. Verilog Data flow description:
+        2.2.1. Highlights of Data flow description,
+        2.2.2. Structure of Data flow description.
+
+2.3. Verilog Behavioral description:
+        2.3.1. Structure,
+        2.3.2. Variable Assignment Statement,
+        2.3.3. Sequential Statements,
+        2.3.4. Loop Statements,
+        2.3.5. Verilog Behavioral Description of Multiplexers
+
+2.4. Verilog Structural description:
+        2.4.1. Highlights of Structural description,
+        2.4.2. Organization of structural description,
+        2.4.3. Structural description of ripple carry adder.
+
+2.5. Logic Simulation, Design Verification, and Test Methodology:
+        2.5.1. Four-Value Logic and Signal Resolution in Verilog,
+        2.5.2. Test Methodology Signal Generators for Test benches,
+        2.5.3. Event-Driven Simulation,
+        2.5.4. Propagation Delay.
+
+
+##########################################################################################
+
+
+
+3. Summary of Experiments to understand the Theoretical Concepts. Involves Verilog Design and Testbench Components.
+
+3.1. To simplify the given Boolean expressions and realize using Verilog program
+
+3.2. To realize Adder/Subtractor (Full/half) circuits using Verilog data flow description.
+
+3.3. To realize 4-bit ALU using Verilog program.
+
+3.4. To realize the following Code converters using Verilog Behavioral description
+        3.4.1. Gray to binary and vice versa
+        3.4.2. Binary to excess3 and vice versa
+
+3.5. To realize using Verilog Behavioral description:
+        3.5.1. 8:1mux,
+        3.5.2. 8:3encoder,
+        3.5.3. Priority encoder
+
+3.6. To realize using Verilog Behavioral description:
+        3.6.1. 1:8Demux,
+        3.6.2. 3:8 decoder,
+        3.6.3. 2 –bit Comparator
+
+3.7. To realize using Verilog Behavioral description Flip Flops:
+        3.7.1. JK type
+        3.7.2. SR type
+        3.7.3. T type
+        3.7.4. D type
+
+3.8. To realize Counters-up/down (BCD and binary) using Verilog Behavioral description.
+
+
+##########################################################################################
+
+
+
+4. Verilog Mini Projects.
+
+4.1. Color Space Converter
+
+4.2. I2C Protocol
+
+4.3. SPI Protocol
+
+
+
