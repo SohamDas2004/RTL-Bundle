@@ -32,7 +32,7 @@ Contains a collection of essential Verilog codes covering DSD concepts and modul
 ## 🧠 Ideal For:
 College lab assignments | 
 Digital design interviews | 
-Learning RTL coding best practices
+Learning RTL coding
 
 <br>
 
