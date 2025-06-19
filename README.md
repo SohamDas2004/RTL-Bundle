@@ -30,8 +30,8 @@ Contains a collection of essential Verilog codes covering DSD concepts and modul
 <br>
 
 ## 🧠 Ideal For:
-College lab assignments
-Digital design interviews
+College lab assignments | 
+Digital design interviews | 
 Learning RTL coding best practices
 
 <br>
